@@ -1,0 +1,10 @@
+/project/var/*
+!/project/var/cache
+/project/var/cache/*
+!project/var/cache/.gitkeep
+!/project/var/logs
+/project/var/logs/*
+!project/var/logs/.gitkeep
+!project/var/SymfonyRequirements.php
+/project/vendor/
+.idea/*
