@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo "IT WORKS WELL!!!"
+docker ps
